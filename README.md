@@ -1,6 +1,7 @@
 # Non-reactive-VLE-ASNNs
-Vapor-Liquid Equilibrium Modelling with Thermodynamically Consistent Artificial Neural Networks
-This Github site contains the model implementation of the Open Access paper: "Thermodynamically Consistent Vapor-Liquid Equilibrium Modelling with Artificial Neural Networks"
+This site contains the model implementation of the Open Access paper: "Thermodynamically Consistent Vapor-Liquid Equilibrium Modelling with Artificial Neural Networks"
+
+This work used the Neural Network Programming hybrid modelling to transcript the Wilson and NRTL model to a Neural Network (see the publication Carranza-Abaid and Jakobsen, Comput. Chem. Eng, 2022).
 
 1. The files named as "Structure_VLE_XXXXX" contain the VLE implementation for every model discussed in the paper
 2. The file  named as "Structure_NRTL_VLEHEX" contain the VLE+HE implementation of the Dichloromethane (1) - Acetone (2)  system using the NRTL model with polynomial parametrization

@@ -17,7 +17,6 @@ Note 2: Check the units of the table.
 3. Run Gen_Data.m
 4. Open "Gen_VLE_Poly", "Gen_VLEHEX_Poly", "Gen_VLEHEX_NN"
 5. Set-up a "Model", the number of epochs, the input vector function and the derivative of the input vector (if necessary)
+6. Run any of "Gen_VLE_Poly", "Gen_VLEHEX_Poly", "Gen_VLEHEX_NN" 
 
-
-
-
+Enjoy :)
